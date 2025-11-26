@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <rect x="50" y="80" width="500" height="240" rx="10" ry="10" fill="#0072CE"/>
+  <text x="300" y="200" text-anchor="middle" fill="white" font-size="24" font-family="Arial" font-weight="bold">Troubleshooting</text>
+  <text x="300" y="240" text-anchor="middle" fill="white" font-size="18" font-family="Arial">Problem Diagnosis & Solutions</text>
+  <circle cx="250" cy="180" r="30" fill="white"/>
+  <path d="M240,170 L260,190 M260,170 L240,190" stroke="#0072CE" stroke-width="5"/>
+  <circle cx="350" cy="180" r="30" fill="white"/>
+  <path d="M335,180 L365,180 M350,165 L350,195" stroke="#0072CE" stroke-width="5"/>
+  <path d="M280,220 Q300,250 320,220" stroke="white" stroke-width="5" fill="none"/>
+</svg>
